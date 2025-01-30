@@ -6,7 +6,7 @@ when prompted, input the path to the folder which contains the files you want to
 
 when prompted, input the desired filename base ( ex. "header")
 
-filenames will be changed to the {inputname}_{n+1}.png until the end of the list is reached
+filenames will be changed to the {inputname}_{n+1}.{filetype} until the end of the list is reached
       (ex. "header_1.png, header_2.png, header_3.png)
 
       
