@@ -1,4 +1,4 @@
-in terminal, `cd` to where your rename.py file is stored (ex. `cd desktop`
+in terminal, `cd` to where your rename.py file is stored (ex. `cd desktop`)
 
 in terminal, run `python3 rename.py`
 
